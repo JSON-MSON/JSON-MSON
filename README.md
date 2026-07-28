@@ -20,12 +20,11 @@ Before this, I spent 20+ years in high-stakes, self-managed operational roles (C
 
 ### 🛠️ Tools & Technologies
 
-**Security & Analysis:** Wireshark · tshark · tcpdump · Nmap · Hydra · Wazuh · Chronicle SIEM
+**Security & Analysis:** Wireshark · tshark · tcpdump · Nmap · Hydra · Wazuh · Chronicle SIEM · Windows Defender Firewall (PowerShell rule management) · ss (socket/port analysis)
 **Identity & Access:** Active Directory Domain Services (Samba4) · samba-tool CLI administration · SDDL/ACL-based delegation
 **Systems:** Windows Server, Windows 10/11 · macOS · Linux (Ubuntu, Kali, Debian)
 **Virtualization:** VMware Fusion · Hyper-V · UTM · Boot Camp
 **Scripting:** PowerShell · Bash · Python
-**Endpoint/RMM:** Action1
 
 ---
 
