@@ -10,11 +10,11 @@ Before this, I spent 20+ years in high-stakes, self-managed operational roles (C
 
 | Project | What it demonstrates |
 |---|---|
-| [`packet-analysis-lab`](https://github.com/JSON-MSON/packet-analysis-lab) | Network traffic capture and analysis with Wireshark/tshark — port scan detection, encrypted vs. plaintext credential exposure |
-| [`siem-home-lab`](https://github.com/JSON-MSON/siem-home-lab) | Self-hosted Wazuh SIEM deployment with a custom MITRE ATT&CK-mapped detection rule for SSH brute-force attempts, validated against live attack traffic |
-| [`linux-audit-lab`](https://github.com/JSON-MSON/linux-audit-lab) | Bash-scripted auditing of auth logs and file permissions, with before/after remediation |
-| [`log-ioc-parser`](https://github.com/JSON-MSON/log-ioc-parser) | Python script parsing auth logs to extract and flag IOCs (IPs behind brute-force attempts) |
-| [`iam-ad-lab`](https://github.com/JSON-MSON/iam-ad-lab) | Self-hosted Active Directory domain (Samba4) — OU structure, group-based delegation, least-privilege access verified at the ACL level |
+| [`packet-analysis-lab`](https://github.com/JSON-MSON/packet-analysis-lab) | Network traffic capture and analysis with Wireshark/tshark — port scan detection, encrypted vs. plaintext credential exposure, and a measured firewall-hardening pass (5 → 2 open ports, verified via a full 65535-port scan) |
+| [`siem-home-lab`](https://github.com/JSON-MSON/siem-home-lab) | Self-hosted Wazuh SIEM deployment with two custom MITRE ATT&CK-mapped detection rules — SSH brute-force (T1110) and privilege escalation (T1548) — each validated against live attack traffic |
+| [`linux-audit-lab`](https://github.com/JSON-MSON/linux-audit-lab) | Bash-scripted auditing of auth logs and file permissions, with before/after remediation and continuous drift detection via a scheduled cron job |
+| [`log-ioc-parser`](https://github.com/JSON-MSON/log-ioc-parser) | Python script parsing auth logs to extract and flag IOCs (IPs behind brute-force attempts), with a structured JSON output mode for downstream tooling |
+| [`iam-ad-lab`](https://github.com/JSON-MSON/iam-ad-lab) | Self-hosted Active Directory domain (Samba4) — OU structure, group-based delegation, least-privilege access verified at the ACL level, plus CSV-driven bulk provisioning and a verified domain password policy |
 
 ---
 
@@ -22,7 +22,7 @@ Before this, I spent 20+ years in high-stakes, self-managed operational roles (C
 
 **Security & Analysis:** Wireshark · tshark · tcpdump · Nmap · Hydra · Wazuh · Chronicle SIEM · Windows Defender Firewall (PowerShell rule management) · ss (socket/port analysis)
 **Identity & Access:** Active Directory Domain Services (Samba4) · samba-tool CLI administration · SDDL/ACL-based delegation
-**Systems:** Windows Server, Windows 10/11 · macOS · Linux (Ubuntu, Kali, Debian)
+**Systems:** Windows 10/11 · macOS · Linux (Ubuntu, Kali, Debian)
 **Virtualization:** VMware Fusion · Hyper-V · UTM · Boot Camp
 **Scripting:** PowerShell · Bash · Python
 
