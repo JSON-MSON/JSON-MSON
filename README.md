@@ -22,31 +22,31 @@ Risk management and security control assessment, detection engineering, identity
 ### In This Lab
 
 **Systems**\
-Windows 10 · macOS · Linux (Ubuntu, Kali)
+<sub>Windows 10 · macOS · Linux (Ubuntu, Kali)</sub>
 
 **Scripting**\
-PowerShell · Bash · Python
+<sub>PowerShell · Bash · Python</sub>
 
 **Governance, Risk & Compliance**\
-Security categorization · control selection and tailoring · control assessment · remediation planning
+<sub>Security categorization · control selection and tailoring · control assessment · remediation planning</sub>
 
 **Security & Analysis**\
-tshark · Nmap · Hydra · Wazuh · OpenSearch Dashboards · ufw · ss (socket/port analysis) · ATT&CK Navigator
+<sub>tshark · Nmap · Hydra · Wazuh · OpenSearch Dashboards · ufw · ss (socket/port analysis) · ATT&CK Navigator</sub>
 
 **Identity & Access**\
-Active Directory (Samba4 domain controller) · samba-tool CLI administration · SDDL/ACL-based delegation · winbind/PAM/NSS (Linux-to-AD integration)
+<sub>Active Directory (Samba4 domain controller) · samba-tool CLI administration · SDDL/ACL-based delegation · winbind/PAM/NSS (Linux-to-AD integration)</sub>
 
 **Frameworks**\
-NIST RMF (SP 800-37) · FIPS 199 · NIST SP 800-60 · NIST SP 800-53 / 53A / 53B · NIST SP 800-18 · NIST CSF 2.0 · NIST SP 800-61 Rev 3 · MITRE ATT&CK
+<sub>NIST RMF (SP 800-37) · FIPS 199 · NIST SP 800-60 · NIST SP 800-53 / 53A / 53B · NIST SP 800-18 · NIST CSF 2.0 · NIST SP 800-61 Rev 3 · MITRE ATT&CK</sub>
 
 **Endpoint Management**\
-Action1 (RMM)
+<sub>Action1 (RMM)</sub>
 
 **Virtualization**\
-VMware Fusion
+<sub>VMware Fusion</sub>
 
 **Reporting**\
-Google Sheets
+<sub>Google Sheets</sub>
 
 ---
 
