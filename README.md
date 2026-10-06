@@ -21,17 +21,17 @@ Risk management and security control assessment, detection engineering, identity
 
 ### In This Lab
 
-| Area | Tools and practices |
-|---|---|
-| **Systems** | Windows 10 · macOS · Linux (Ubuntu, Kali) |
-| **Scripting** | PowerShell · Bash · Python |
-| **Governance, Risk & Compliance** | Security categorization · control selection and tailoring · control assessment · remediation planning |
-| **Security & Analysis** | tshark · Nmap · Hydra · Wazuh · OpenSearch Dashboards · ufw · ss (socket/port analysis) · ATT&CK Navigator |
-| **Identity & Access** | Active Directory (Samba4 domain controller) · samba-tool CLI administration · SDDL/ACL-based delegation · winbind/PAM/NSS (Linux-to-AD integration) |
-| **Frameworks** | NIST RMF (SP 800-37) · FIPS 199 · NIST SP 800-60 · NIST SP 800-53 / 53A / 53B · NIST SP 800-18 · NIST CSF 2.0 · NIST SP 800-61 Rev 3 · MITRE ATT&CK |
-| **Endpoint Management** | Action1 (RMM) |
-| **Virtualization** | VMware Fusion |
-| **Reporting** | Google Sheets |
+<table>
+<tr><td><b>Systems</b></td><td>Windows 10 · macOS · Linux (Ubuntu, Kali)</td></tr>
+<tr><td><b>Scripting</b></td><td>PowerShell · Bash · Python</td></tr>
+<tr><td><b>Governance, Risk &amp; Compliance</b></td><td>Security categorization · control selection and tailoring · control assessment · remediation planning</td></tr>
+<tr><td><b>Security &amp; Analysis</b></td><td>tshark · Nmap · Hydra · Wazuh · OpenSearch Dashboards · ufw · ss (socket/port analysis) · ATT&amp;CK Navigator</td></tr>
+<tr><td><b>Identity &amp; Access</b></td><td>Active Directory (Samba4 domain controller) · samba-tool CLI administration · SDDL/ACL-based delegation · winbind/PAM/NSS (Linux-to-AD integration)</td></tr>
+<tr><td><b>Frameworks</b></td><td>NIST RMF (SP 800-37) · FIPS 199 · NIST SP 800-60 · NIST SP 800-53 / 53A / 53B · NIST SP 800-18 · NIST CSF 2.0 · NIST SP 800-61 Rev 3 · MITRE ATT&amp;CK</td></tr>
+<tr><td><b>Endpoint Management</b></td><td>Action1 (RMM)</td></tr>
+<tr><td><b>Virtualization</b></td><td>VMware Fusion</td></tr>
+<tr><td><b>Reporting</b></td><td>Google Sheets</td></tr>
+</table>
 
 ---
 
