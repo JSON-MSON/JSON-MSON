@@ -37,4 +37,4 @@ Risk management and security control assessment, detection engineering, identity
 
 ### Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/j-mason-7013428b) · Open to remote GRC and SOC analyst roles
+[LinkedIn](https://www.linkedin.com/in/json-mson) · Open to remote GRC and SOC analyst roles
