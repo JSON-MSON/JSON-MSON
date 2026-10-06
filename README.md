@@ -1,5 +1,3 @@
-### I'm Jason
-
 Risk management and security control assessment, detection engineering, identity administration, incident response, and control framework mapping — built and broken in a segmented home lab, then documented against independent evidence rather than a tool's own success output. Backed by a **Google Cybersecurity Professional Certificate**, with **CompTIA Security+** in progress.
 
 ---
