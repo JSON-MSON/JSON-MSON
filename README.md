@@ -21,32 +21,17 @@ Risk management and security control assessment, detection engineering, identity
 
 ### In This Lab
 
-**Systems**\
-<sub>Windows 10 · macOS · Linux (Ubuntu, Kali)</sub>
-
-**Scripting**\
-<sub>PowerShell · Bash · Python</sub>
-
-**Governance, Risk & Compliance**\
-<sub>Security categorization · control selection and tailoring · control assessment · remediation planning</sub>
-
-**Security & Analysis**\
-<sub>tshark · Nmap · Hydra · Wazuh · OpenSearch Dashboards · ufw · ss (socket/port analysis) · ATT&CK Navigator</sub>
-
-**Identity & Access**\
-<sub>Active Directory (Samba4 domain controller) · samba-tool CLI administration · SDDL/ACL-based delegation · winbind/PAM/NSS (Linux-to-AD integration)</sub>
-
-**Frameworks**\
-<sub>NIST RMF (SP 800-37) · FIPS 199 · NIST SP 800-60 · NIST SP 800-53 / 53A / 53B · NIST SP 800-18 · NIST CSF 2.0 · NIST SP 800-61 Rev 3 · MITRE ATT&CK</sub>
-
-**Endpoint Management**\
-<sub>Action1 (RMM)</sub>
-
-**Virtualization**\
-<sub>VMware Fusion</sub>
-
-**Reporting**\
-<sub>Google Sheets</sub>
+| Area | Tools and practices |
+|---|---|
+| **Systems** | Windows 10 · macOS · Linux (Ubuntu, Kali) |
+| **Scripting** | PowerShell · Bash · Python |
+| **Governance, Risk & Compliance** | Security categorization · control selection and tailoring · control assessment · remediation planning |
+| **Security & Analysis** | tshark · Nmap · Hydra · Wazuh · OpenSearch Dashboards · ufw · ss (socket/port analysis) · ATT&CK Navigator |
+| **Identity & Access** | Active Directory (Samba4 domain controller) · samba-tool CLI administration · SDDL/ACL-based delegation · winbind/PAM/NSS (Linux-to-AD integration) |
+| **Frameworks** | NIST RMF (SP 800-37) · FIPS 199 · NIST SP 800-60 · NIST SP 800-53 / 53A / 53B · NIST SP 800-18 · NIST CSF 2.0 · NIST SP 800-61 Rev 3 · MITRE ATT&CK |
+| **Endpoint Management** | Action1 (RMM) |
+| **Virtualization** | VMware Fusion |
+| **Reporting** | Google Sheets |
 
 ---
 
