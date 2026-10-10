@@ -6,7 +6,7 @@ Risk management and security control assessment, detection engineering, identity
 
 | Project | What it demonstrates |
 |---|---|
-| [`governance-risk-lab`](https://github.com/JSON-MSON/governance-risk-lab) | <h4>Risk Management Framework Assessment</h4>NIST RMF applied to the lab: FIPS 199 categorization, an SP 800-53B baseline tailored to 290 controls, nine controls assessed, and 28-entry remediation plan |
+| [`governance-risk-lab`](https://github.com/JSON-MSON/governance-risk-lab) | <h4>Risk Management Framework Assessment</h4>NIST RMF applied to the lab: FIPS 199 categorization, a tailored SP 800-53B baseline, control assessment, and remediation plan |
 | [`packet-analysis-lab`](https://github.com/JSON-MSON/packet-analysis-lab) | <h4>Packet Capture & Traffic Analysis</h4>tshark port-scan detection, plaintext vs. encrypted credential exposure, and firewall hardening measured with full 65,535-port scan |
 | [`siem-home-lab`](https://github.com/JSON-MSON/siem-home-lab) | <h4>Home SIEM Lab (Wazuh)</h4>Custom brute-force and privilege-escalation rules, mapped to MITRE ATT&CK v19.2 and validated against live attack traffic, plus an ATT&CK Navigator coverage layer and dashboards |
 | [`linux-audit-lab`](https://github.com/JSON-MSON/linux-audit-lab) | <h4>Linux Log Auditing & Permission Hardening</h4>Bash auditing of auth logs and file permissions, before/after remediation, and cron-scheduled drift detection |
